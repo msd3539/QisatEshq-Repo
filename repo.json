@@ -1,9 +1,12 @@
 {
-  "name": "قصة عشق",
-  "description": "إضافة موقع 3isk.onl لمشاهدة المسلسلات التركية المترجمة والمدبلجة",
+  "name": "QisatEshq Repository",
+  "description": "قصة عشق - 3isk.onl",
   "plugins": [
     {
       "name": "QisatEshq",
+      "description": "مشاهدة المسلسلات التركية المترجمة والمدبلجة",
+      "version": "1.0.0",
+      "language": "ar",
       "url": "https://raw.githubusercontent.com/msd3539/QisatEshq-Repo/main/plugins/QisatEshq.cs3"
     }
   ]
