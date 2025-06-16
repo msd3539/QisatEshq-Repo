@@ -1,0 +1,9 @@
+{
+  "name": "قصة عشق",
+  "description": "مسلسلات تركية مترجمة ومدبلجة من موقع 3isk.onl",
+  "plugins": [
+    {
+      "name": "QisatEshq",
+      "url": "https://raw.githubusercontent.com/msd3539/QisatEshq-Repo/main/plugins/QisatEshq.cs3"
+    }
+  ]
